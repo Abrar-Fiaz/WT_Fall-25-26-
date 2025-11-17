@@ -32,6 +32,7 @@
             let name= document.getElementById("fullname").value.trim();
             let email=document.getElementById("email").value.trim();
             let phone number=document.getElementById("phonenumber").value.trim();
+            let password=document.getElementById("password").value.trim();
         }
     </script>
     

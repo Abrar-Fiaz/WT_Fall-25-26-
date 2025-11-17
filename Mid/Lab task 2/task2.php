@@ -8,5 +8,14 @@
     <h1>Participant Regristration </h2>
     <p> Full Name</p>
     <input type="text">
+
+    
+   
+
+
+     
+
+
+
 </body>
 </html>

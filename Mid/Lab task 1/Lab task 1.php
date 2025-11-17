@@ -13,7 +13,9 @@
 
 </style>
 <body>
-   <center><h1 style="color:red; border-bottom:2px solid red">Student Regristration Information</h1></center> 
+
+
+<center><h1 style="color:red; border-bottom:2px solid red">Student Regristration Information</h1></center> 
     
     <p>First Name</p>
     <input type="text" style= "width: 100%;">

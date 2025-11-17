@@ -13,6 +13,8 @@
     <input type="email">
     <p>Phone number</p>
     <input type="text">
+    <p>Password</p>
+    <input type="password">
 
     
    

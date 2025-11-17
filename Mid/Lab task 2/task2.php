@@ -14,6 +14,8 @@
     <p>Phone number</p>
     <input type="text">
     <p>Password</p>
+    <input type="password"> 
+    <p>Confirm Password</p>
     <input type="password">
 
     
